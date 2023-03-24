@@ -1,0 +1,16 @@
+:root{ /*É uma variável que permite mudar as cores. O root é o que eu vou carregar antes do resto*/
+    --vermelho:  #E51B15; /*Cor principal do site*/
+    --branco: #ffffff;
+    -preto: #000000;
+}
+header{
+    background-color: var(--vermelho);
+}
+
+nav{
+    background-color: var(--vermelho);
+}
+
+footer{
+    background-color: var(--vermelho);
+}
