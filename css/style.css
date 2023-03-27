@@ -14,3 +14,50 @@ nav{
 footer{
     background-color: var(--vermelho);
 }
+
+.btn{
+    background-color: var(--vermelho);
+    color: var(--branco);
+    border: 1px solid var(--branco);
+}
+
+.btn:hover{
+    background-color: var(--branco);
+    color: var(--vermelho);
+    border: 1px solid var(--branco);
+}
+
+nav input{
+    background-color: var(--branco) !important;
+    color: var(--preto) !important;
+    border-color: var(--branco) !important;
+}
+
+footer{
+    background-color: var(--vermelho);
+    color: var(--branco);
+}
+
+footer a{
+    border: 1px solid var(--branco);
+    border-radius: 50px;
+    color: var(--branco);
+    padding: 10px;
+}
+
+footer a:hover{
+    color: var(--vermelho);
+    background-color: var(--branco);
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.card-title{
+    min-height: 80px;
+}
+
+.badge{
+    background-color: var(--vermelho);
+}
