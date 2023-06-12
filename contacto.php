@@ -37,7 +37,7 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="index.html">Págna Inicial</a>
+                        <a class="nav-link" aria-current="page" href="index.html">Página Inicial</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" aria-current="page" href="sobrenos.html">Sobre Nós</a>

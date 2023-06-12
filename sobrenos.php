@@ -29,7 +29,7 @@
         <img src="img/logo.png" alt="logo_worten">
         <nav class="navbar navbar-expand-lg" data-bs-theme="dark">
             <div class="container-fluid">
-                <a class="navbar-brand" href="index.html"></a>
+                <a class="navbar-brand" href="index.php"></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -37,19 +37,19 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="index.html">Págna Inicial</a>
+                            <a class="nav-link" aria-current="page" href="index.php">Página Inicial</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="sobrenos.html">Sobre Nós</a>
+                            <a class="nav-link active" aria-current="page" href="sobrenos.html">Sobre Nós</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="produtos.html">Produtos</a>
+                            <a class="nav-link" aria-current="page" href="produtos.php">Produtos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="promocoes.html">Promoções</a>
+                            <a class="nav-link" aria-current="page" href="promocoes.php">Promoções</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="contacto.html">Contacto</a>
+                            <a class="nav-link" aria-current="page" href="contacto.php">Contacto</a>
                         </li>
                         <form class="d-flex" role="search">
                             <input class="form-control me-2" type="search" placeholder="Pesquisar" aria-label="Search">
@@ -61,7 +61,9 @@
         </nav>
     </header>
     <main class="container mt-1 shadow mb-3 rounded">
-        CONTEÚDO
+        <img class="w-100" src="img/sobrenos/worten.jpg" alt="">
+        <h1>Sobre a Worten</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     </main>
     <footer class="container-fluid">
         <div class="row">

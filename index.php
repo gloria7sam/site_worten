@@ -37,10 +37,10 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link" aria-current="page" href="index.html">Págna Inicial</a>
+                            <a class="nav-link active" aria-current="page" href="index.html">Página Inicial</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="sobrenos.html">Sobre Nós</a>
+                            <a class="nav-link" aria-current="page" href="sobrenos.html">Sobre Nós</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" aria-current="page" href="produtos.html">Produtos</a>
@@ -61,9 +61,7 @@
         </nav>
     </header>
     <main class="container mt-1 shadow mb-3 rounded">
-        <img class="w-100" src="img/sobrenos/worten.jpg" alt="">
-        <h1>Sobre a Worten</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        Worten, comprem tudo aqui!
     </main>
     <footer class="container-fluid">
         <div class="row">
